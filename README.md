@@ -1,2 +1,2 @@
 # learning-SQL
- queries in my learning journey
+ To document the queries that I have found useful as I learn SQL. 
