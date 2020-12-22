@@ -1,2 +1,2 @@
 # learning-SQL
- To document the queries that I have found useful as I learn SQL. 
+Useful assignment queries from the Managing Big Data with MySQL course offered by Duke University on Coursera.
